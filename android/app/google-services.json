@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "122414334550",
+    "project_id": "rubyribon-a6d4a",
+    "storage_bucket": "rubyribon-a6d4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122414334550:android:d555cc0a6509042a1131f7",
+        "android_client_info": {
+          "package_name": "com.example.cce106project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122414334550-j8re59cv9f7jghi4a3frqeubavscol6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cce106project",
+            "certificate_hash": "dc014b11379142485a6699be97dfcdb882cbbeac"
+          }
+        },
+        {
+          "client_id": "122414334550-0r97s1mtd3ak2oale8gskffnolm8csah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZSmfz8OIhWa9KVICQ_BXAOFVckJwi2IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122414334550-0r97s1mtd3ak2oale8gskffnolm8csah.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122414334550-4cc2eqqghrae45fuor8l4d0nmq2ql0q5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cce106project"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122414334550:android:b850975ef59d94b31131f7",
+        "android_client_info": {
+          "package_name": "com.example.rubyribbon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122414334550-qk9fodv1lge3nh9vfo9g090rk76im0ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rubyribbon",
+            "certificate_hash": "dc014b11379142485a6699be97dfcdb882cbbeac"
+          }
+        },
+        {
+          "client_id": "122414334550-0r97s1mtd3ak2oale8gskffnolm8csah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZSmfz8OIhWa9KVICQ_BXAOFVckJwi2IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122414334550-0r97s1mtd3ak2oale8gskffnolm8csah.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122414334550-4cc2eqqghrae45fuor8l4d0nmq2ql0q5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cce106project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
